@@ -18,7 +18,7 @@ Semantic scene completion, also known as semantic occupancy prediction, can prov
 ```
 @inproceedings{wang2024not,
       title={Not All Voxels Are Equal: Hardness-Aware Semantic Scene Completion with Self-Distillation},
-      author={Wang, Song and Li, Wentong and Liu, Wenyu and Liu, Xiaolu and Zhu, Jianke},
+      author={Wang, Song and Yu, Jiawei and Li, Wentong and Liu, Wenyu and Liu, Xiaolu and Chen, Junbo and Zhu, Jianke},
       booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
       year={2024}
 }
