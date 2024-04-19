@@ -1,7 +1,7 @@
 # HASSC
 > Song Wang, Jiawei Yu, Wentong Li, Wenyu Liu, Xiaolu Liu, Junbo Chen*, Jianke Zhu*
 
-This is the official implementation of **Not All Voxels Are Equal: Hardness-Aware Semantic Scene Completion with Self-Distillation** (CVPR 2024)  [[Paper]()] [[Video]()].
+This is the official implementation of **Not All Voxels Are Equal: Hardness-Aware Semantic Scene Completion with Self-Distillation** (CVPR 2024)  [[Paper](https://arxiv.org/pdf/2404.11958.pdf)] [[Video]()].
 
 
 
